@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Jamal%20Nasir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Jamal%20Nasir&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20-%20GenAI%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/jamal-nasir-022b6125b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=JamalNasirDataScintist&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS"/>
@@ -86,8 +86,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JamalNasirDataScintist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamalNasirDataScintist&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JamalNasirDataScintist&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JamalNasirDataScintist&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
