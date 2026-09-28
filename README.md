@@ -4,6 +4,9 @@
 
 <a href="https://www.linkedin.com/in/jamal-nasir-022b6125b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=JamalNasirDataScintist&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJamalNasirDataScintist&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=00c9ff"/>
+<img src="https://img.shields.io/github/followers/JamalNasirDataScintist?style=for-the-badge&logo=github&color=0f2027"/>
+<img src="https://img.shields.io/github/last-commit/JamalNasirDataScintist/JamalNasirDataScintist?style=for-the-badge&color=2c5364&label=Last%20update"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+LLM+Agents+%F0%9F%A4%96;RAG+Pipelines+%2B+Voice+AI+%F0%9F%8E%99%EF%B8%8F;LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI+%C2%B7+Groq;Turning+Data+into+Intelligence+%E2%9A%A1"/>
 
@@ -15,7 +18,7 @@
 
 - 🧬 **Data Scientist** with a strong ML foundation, now building **agentic AI systems**
 - 🤖 Multi-agent workflows with **LangGraph** and **CrewAI**, plus MCP tool servers
-- 📚 RAG pipelines with **FAISS**, **LlamaIndex** and Hugging Face embeddings
+- 📚 RAG pipelines with **FAISS**, **Chroma**, **LlamaIndex** and Hugging Face embeddings
 - 🎙️ Voice-first AI and computer vision: speech, gesture control, YOLOv8
 - 🖥️ Offline desktop and web apps built with Electron, Node.js and SQLite
 - 💬 Ask me about: LLM agents, RAG systems, or rapid AI prototyping
@@ -37,9 +40,11 @@
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral%20AI-FF7000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-0A66C2?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/-Chroma-FF6446?style=for-the-badge)
 
 </div>
 
@@ -54,15 +59,25 @@
 | 🔮 **[LangGraph Multi-Agent Assistant](https://github.com/JamalNasirDataScintist/Multi-Agent---Research-Assistant)** | Researcher, coder and reviewer agents on a LangGraph state graph, powered by Groq |
 | 🧑‍🤝‍🧑 **[CrewAI Healthcare Research Crew](https://github.com/JamalNasirDataScintist/CrewAI-Groq-App)** | CrewAI agents researching AI in healthcare, running on Groq |
 | 🔭 **[AI Researcher with MCP tools](https://github.com/JamalNasirDataScintist/AI-Researcher-Using-Groq-Tavily)** | Gemini agent plus an MCP server exposing search, calculator and report tools |
+| 🎧 **[Voice agent with LiveKit](https://github.com/JamalNasirDataScintist/AI-Agent-Practice)** | Voice assistant answering from your documents with LlamaIndex and Ollama |
 
-#### 📚 RAG and LLM apps
+#### 📚 RAG and document chatbots
 
 | Project | What it does |
 |---|---|
 | 🧠 **[RAG with FAISS and Groq](https://github.com/JamalNasirDataScintist/RAG-FAISS-Groq)** | Retrieval-augmented chatbot over your own text using FAISS and Hugging Face embeddings |
 | 📄 **[LlamaIndex Document Q&A](https://github.com/JamalNasirDataScintist/LlamaIndex-Document-QA)** | Upload a PDF and chat with it using LlamaIndex and Groq |
+| 📑 **[PDF Chatbot with Groq](https://github.com/JamalNasirDataScintist/PDF-Chatbot-Groq)** | PDF question answering with RAG on the Groq API |
+| 📘 **[PDF Chatbot with Mistral](https://github.com/JamalNasirDataScintist/PDF-Chatbot-Mistral-Stunning)** | PDF chatbot with Mistral AI and a polished web UI ([more variants](https://github.com/JamalNasirDataScintist?tab=repositories&q=PDF-Chatbot)) |
+| 🦙 **[PDF Analyzer](https://github.com/JamalNasirDataScintist/PDF-Analyzer)** | Fully offline PDF Q&A with LLaMA-3 on Ollama and Chroma |
+
+#### 💬 LLM apps and APIs
+
+| Project | What it does |
+|---|---|
 | 💬 **[LangChain Groq Chatbot](https://github.com/JamalNasirDataScintist/LangChain-Groq-Chatbot)** | Streamlit chatbot with Llama 3.3 70B via LangChain |
 | ⚡ **[Groq Flask API](https://github.com/JamalNasirDataScintist/Groq-Flask-API)** | Minimal REST API for chatting with Groq models |
+| 🎖️ **[PMA Chatbot](https://github.com/JamalNasirDataScintist/Chatbot-App)** | Topic-restricted Gemini chatbot with a custom system prompt |
 | 🎨 **[Free Image Generator](https://github.com/JamalNasirDataScintist/Free-Image-Generator)** | Text-to-image with Stable Diffusion XL through Hugging Face |
 
 #### 🎥 Voice, vision and media
@@ -74,12 +89,19 @@
 | 🎬 **[YouTube AI Video Agent](https://github.com/JamalNasirDataScintist/YouTube-AI-Video-Agent)** | Topic in, finished MP4 out: Groq, ElevenLabs and FFmpeg |
 | 📝 **[YouTube AI Content Agent](https://github.com/JamalNasirDataScintist/YouTube-AI-Content-Agent)** | Scripts, code, examples and music prompts from one topic |
 
-#### 🖥️ Desktop apps
+#### 🖥️ Desktop and web tools
 
 | Project | What it does |
 |---|---|
-| 💊 **[Ismaj Pharmacy POS](https://github.com/JamalNasirDataScintist/Ismaj-Pharmacy-POS)** | Offline Windows POS with inventory, expiry tracking and credit ledger |
 | 🏢 **[AJ Towers Portal](https://github.com/JamalNasirDataScintist/AJ-Towers-App)** | Complaint routing and agreement OCR with LAN sync |
+| 🎓 **[Certificate Sender](https://github.com/JamalNasirDataScintist/Certificate-Sender)** | Generate certificates and email them to students through Gmail |
+
+#### 🎓 Learning and coursework
+
+| Project | What it does |
+|---|---|
+| 🧪 **[Deep Learning Notebooks](https://github.com/JamalNasirDataScintist/Deep-Learning-Notebooks)** | CNNs, image classification, decision trees and sentiment analysis |
+| 📐 **[ML Practice](https://github.com/JamalNasirDataScintist/ML-Practice)** | Python fundamentals, a Groq voice chatbot and a RAG script |
 
 ---
 
