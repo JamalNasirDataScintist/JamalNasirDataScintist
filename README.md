@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Jamal%20Nasir&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20-%20GenAI%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://jamalnasirdatascintist.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/jamal-nasir-022b6125b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=JamalNasirDataScintist&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJamalNasirDataScintist&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=00c9ff"/>
@@ -122,6 +123,7 @@
 
 ### 📡 Let's Connect
 
+<a href="https://jamalnasirdatascintist.github.io"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/jamal-nasir-022b6125b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jamal.aiengineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
