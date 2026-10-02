@@ -17,7 +17,7 @@
 
 ### ⚡ About Me
 
-- 🧬 **Data Scientist** with a strong ML foundation, now building **agentic AI systems**
+- 🧬 **AI Engineer** with a strong ML foundation, building **LLM apps, RAG and agentic AI systems** with tests and measured results
 - 🤖 Multi-agent workflows with **LangGraph** and **CrewAI**, plus MCP tool servers
 - 📚 RAG pipelines with **FAISS**, **Chroma**, **LlamaIndex** and Hugging Face embeddings
 - 🎙️ Voice-first AI and computer vision: speech, gesture control, YOLOv8
@@ -48,6 +48,20 @@
 ![Chroma](https://img.shields.io/badge/-Chroma-FF6446?style=for-the-badge)
 
 </div>
+
+---
+
+### ⭐ Flagship Projects (tested, measured, honest about limits)
+
+| Project | What it does | Evidence |
+|---|---|---|
+| 🎙️ **[VoiceDesk](https://github.com/JamalNasirDataScintist/voicedesk-voice-support-agent)** | Voice support agent: Whisper, tool-calling LLM, ElevenLabs; secure order lookup and human handoff | 27 tests; FAQ top-3 recall 1.00 on held-out questions |
+| 🎧 **[AI Podcast Studio](https://github.com/JamalNasirDataScintist/ai-podcast-studio)** | URL/PDF to two-host episode with ElevenLabs or free voices, captions and credit budgeting | 20 tests; real 2 min 25 s example episode |
+| 🔎 **[RAG Lab](https://github.com/JamalNasirDataScintist/rag-lab-hybrid-retrieval)** | Hybrid search, cross-encoder re-ranking, cited answers and a built-in benchmark | 11 tests; first-hit accuracy 67% to 100% on 30 questions |
+| 🧭 **[LangGraph Research Agent](https://github.com/JamalNasirDataScintist/langgraph-research-agent)** | Plans, searches, writes, critiques, then waits for human approval; SSRF and prompt-injection defences | 16 tests against the real graph |
+| 🧾 **[Document Intelligence](https://github.com/JamalNasirDataScintist/document-intelligence-ocr)** | Invoice OCR + LLM extraction with validation that flags likely errors | 25 tests; accuracy measured on 30 clean and 30 degraded invoices |
+
+> Demo data is synthetic and each README states what is and is not verified.
 
 ---
 
